@@ -34,3 +34,10 @@
  	};
 ## Experience:
 #### Not yet
+## Education:
+* International Sakharov Environmental Institute of Belarusian State University, Specialization: Information systems and technologies
+* [http://www.sql-ex.ru/](http://www.sql-ex.ru/)
+* [https://www.codewars.com/](https://www.codewars.com/)
+* Online learning: HTML, CSS, JavaScript
+## Languages:
+* English: A2
