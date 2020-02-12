@@ -5,12 +5,12 @@ body{
 	background-color: #D2D2D2;
 }
 
-#All{
+#all{
 	width: 1024px;
 	margin: auto;
 }
 
-#Top{
+#top{
 	height: 300px;
 
 	background-color: black;
@@ -18,7 +18,7 @@ body{
 	border-bottom-left-radius: 20px;
 }
 
-#Img{
+#img{
 	padding-left: 200px;
 	float: left;
 	padding-right: 75px;
@@ -29,15 +29,15 @@ body{
 	margin-bottom: 0px;
 
 	color: white;
-	font-family: 'Times New Roman';
+	font-family: 'Times New Roman', "Arial", sans-serif;
 	font-size: 50pt;
 	line-height: 1;
 }
-#Jun{
+#jun{
 	margin-top: 0px;
 
 	color: #A0A0A0;
-	font-family: 'Times New Roman';
+	font-family: 'Times New Roman', "Arial", sans-serif;
 	font-size: 30pt;
 	line-height: 1;
 }
@@ -50,7 +50,7 @@ body{
 	margin-left: 38px;
 
 	text-align: center;
-	font-family: 'Times New Roman';
+	font-family: 'Times New Roman', "Arial", sans-serif;
 	font-size: 40pt;
 
 	background-color: white;
@@ -68,12 +68,12 @@ p{
 	line-height: 1.5;
 }
 
-#Codeex{
+#codeex{
 	width: 948px;
 	margin-top: 40px;
 	margin-left: 38px;
 
-	font-family: 'Times New Roman';
+	font-family: 'Times New Roman', "Arial", sans-serif;
 	font-size: 40pt;
 
 	background-color: white;
@@ -93,7 +93,7 @@ p{
 footer{
 	margin-top: 60px;
 	height: 150px;
-	
+
 	border-top-right-radius: 20px;
 	border-top-left-radius: 20px;
 	background-color: #F7F7F7;
