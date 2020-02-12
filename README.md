@@ -1,1 +1,1 @@
-https://balaxon.github.io/rsschool-cv/cv
+https://balaxon.github.io/rsschool-cv/

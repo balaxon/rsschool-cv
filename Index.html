@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+  	<meta charset="utf-8">
+  	<title>Заголовок страницы</title>
+  	<link rel="stylesheet" href="CSS/style.css">
+  </head>
+  <body>
+  	<div id="all">
+  		<div id="top">
+  			<img id="img" src="IMG/shkiper_new.png">
+  			<b><p id="name">Aliaksandr Balakhanau</p></b>
+  			<b><p id="jun">Junior Front-end Developer</p></b>
+  		</div>
+  		<div class="minicontent">
+  			<b>Contact Info:</b>
+  			<p>E-mail: balahanov2209@gmail.com
+					 Phone number: +375 44 783 46 99</p>
+
+  		</div>
+  		<div class="minicontent">
+  			<b>Summary:</b>
+  			<p>Analytical thinking
+  			<br>
+				   Teamwork
+				<br>
+				   Learnability</p>
+  		</div>
+  		<div class="minicontent">
+  			<b>Skills:</b>
+  			<p id="longp"><b>Basic knowledge in:</b>
+  			<br>
+					 HTML
+				<br>
+					 CSS
+				<br>
+					 JavaScript
+				<br>
+					 SQL
+				<br>
+					 OOP
+				<br>
+					 Git
+				<br>
+					 Hardware</p>
+  		</div>
+  		<div class="minicontent">
+  			<b>Experience:</b>
+  			<p>Not yet</p>
+  		</div>
+  		<div class="minicontent">
+  			<b>Education:</b>
+  			<p>International Sakharov Environmental Institute of Belarusian State University. Specialization: Information systems and technologies
+  				<br>
+					 www.sql-ex.ru
+					<br>
+					 codewars.com
+					<br>
+					 Online learning: HTML, CSS, JavaScript</p>
+  		</div>
+  		<div class="minicontent">
+  			<b>Languages:</b>
+  			<p>English: A2</p>
+  		</div>
+  		<div id="codeex">
+  			<b>Code example:</b>
+  			<div id="backcode">
+  					<code>
+  						function solution(input, markers) {
+  						<br> 
+						    markers = markers.toString().split(',');
+						  <br>
+						    input = input.split('\n')
+						  <br>
+						    let result = ''; 
+						  <br>
+						    let prom=''; 
+						  <br>
+						    for (let i=0;i&ltinput.length;i++)
+						  <br>
+						    { 
+						  <br>
+									for(let k=0;k&ltmarkers.length;k++)
+							<br> 
+										{
+							<br>
+											if(input[i].includes(markers[k])==true){
+							<br>
+							 				input[i]=input[i].split(markers[k])[0]} 
+							<br>
+							 			}
+							<br>
+						 				result=result+input[i].trim()+'\n'; 
+						 	<br>
+						 			} 
+						 	<br>
+						 			return result.trim(); 
+						 	<br>
+						 	};
+  					</code>
+  			</div>
+  		</div>
+  		<footer>
+  			<a id="leftimg" href="https://github.com/balaxon"><img src="IMG/GIT.png" ></a>
+  			<a href="https://www.codewars.com/users/balaxon"><img id="centerimg" src="https://www.codewars.com/users/balaxon/badges/large"></a>
+  		</footer>
+  	</div>
+  </body>
+</html>
