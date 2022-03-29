@@ -16,7 +16,6 @@ I have a higher technical education. Now I am having 2 target: first work as a f
 
 ## Code examples:
 ### Codewars:
-	[Link to kata](https://www.codewars.com/kata/514b92a657cdc65150000006)
 
 <javascript
 function solution(number){
