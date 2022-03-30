@@ -1,0 +1,11 @@
+body {
+}
+
+#osn {
+    background-color: red;
+}
+
+.st {
+    display: flex;
+    align-items: center;
+}
